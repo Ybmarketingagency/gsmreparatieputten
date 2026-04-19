@@ -153,6 +153,14 @@ ul { list-style: none; }
     padding: 0;
     border-radius: 0;
 }
+.logo-footer img {
+    height: 72px;
+    width: auto;
+    max-width: 240px;
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+}
 .logo-text {
     display: flex;
     flex-direction: column;
